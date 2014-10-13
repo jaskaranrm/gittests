@@ -13,6 +13,7 @@ public class SmallestGreatest {
 		System.out.println("n1 "+n1);
 		System.out.println("n2 "+n2);
 		
+		//This is a b4 comment
 		for (int i = N + 1; i < 1000000000; i++) {
 			//System.out.println(i);
 			int multipliedSingleDigit = getMultipliedSingleDigit(i);
