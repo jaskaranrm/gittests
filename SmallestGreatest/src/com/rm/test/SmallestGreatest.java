@@ -4,6 +4,7 @@ public class SmallestGreatest {
 
 	public static void main(String[] args) {
 
+		//Comment from jas gump
 		int N = 93337799;
 		int n1 = getMultipliedSingleDigit(N);
 		int n2 = getAddedSingleDigit(N);
