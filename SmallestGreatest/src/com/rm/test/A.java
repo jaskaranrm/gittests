@@ -12,7 +12,6 @@ public class SmallestGreatest {
 
 		
 		for (int i = N + 1; i < 1000000000; i++) {
-			//System.out.println(i);
 			int multipliedSingleDigit = getMultipliedSingleDigit(i);
 			int addedSingleDigit = getAddedSingleDigit(i);
 			if (multipliedSingleDigit < n1 && addedSingleDigit < n2) {
