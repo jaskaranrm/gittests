@@ -10,8 +10,6 @@ public class SmallestGreatest {
 		int n2 = getAddedSingleDigit(N);
 		int smallestGreatestNum = -1;
 
-		System.out.println("n1 "+n1);
-		System.out.println("n2 "+n2);
 		
 		for (int i = N + 1; i < 1000000000; i++) {
 			//System.out.println(i);
