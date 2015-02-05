@@ -4,11 +4,12 @@ public class SmallestGreatest {
 
 	public static void main(String[] args) {
 
-		//Comment from jas gump
+		//Changing comment with first commit.
 		int N = 93337799;
 		int n1 = getMultipliedSingleDigit(N);
 		int n2 = getAddedSingleDigit(N);
 		int smallestGreatestNum = -1;
+		// Changing is the second commit.
 
 		System.out.println("n1 "+n1);
 		System.out.println("n2 "+n2);
