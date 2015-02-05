@@ -9,6 +9,7 @@ public class SmallestGreatest {
 		int n1 = getMultipliedSingleDigit(N);
 		int n2 = getAddedSingleDigit(N);
 		int smallestGreatestNum = -1;
+		// Changing is the second commit.
 
 		System.out.println("n1 "+n1);
 		System.out.println("n2 "+n2);
